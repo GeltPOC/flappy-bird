@@ -1,6 +1,6 @@
 # Flappy Bird
 
-Flappy Bird clone built with Next.js, React, Tailwind CSS and PGLite for persistent rankings.
+A Flappy Bird clone built with Next.js, React, and PGLite for persistent leaderboard.
 
 ## Getting Started
 
@@ -13,6 +13,5 @@ Open [http://localhost:3000/flappy-bird](http://localhost:3000/flappy-bird)
 
 ## Features
 - Classic Flappy Bird gameplay
-- Player name entry screen
-- Persistent leaderboard via PGLite (embedded Postgres)
-- Top scores ranking screen
+- Persistent leaderboard using PGLite (embedded Postgres)
+- Ranking groups scores by player name, showing each player's best score

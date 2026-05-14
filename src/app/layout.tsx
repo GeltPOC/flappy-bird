@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Flappy Bird',
-  description: 'Flappy Bird clone with leaderboard',
+  description: 'A Flappy Bird clone with leaderboard',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
