@@ -1,6 +1,16 @@
 # Flappy Bird
 
-A fully functional Flappy Bird clone built with Next.js and HTML Canvas.
+A Flappy Bird clone built with Next.js and HTML5 Canvas.
+
+## Features
+- Black bird character
+- Classic pipe obstacles
+- Score tracking
+- Game over screen with restart
+
+## Controls
+- **Click / Tap** the canvas
+- **Space** or **↑ Arrow** key to flap
 
 ## Getting Started
 
@@ -9,9 +19,4 @@ npm install
 npm run dev
 ```
 
-## How to Play
-
-- Click or press **Space** to make the bird flap
-- Avoid the green pipes
-- Score points by passing through pipe gaps
-- Don't hit the ground or ceiling!
+Open [http://localhost:3000/flappy-bird](http://localhost:3000/flappy-bird)
