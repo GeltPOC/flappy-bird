@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Flappy Bird',
-  description: 'A Flappy Bird clone with leaderboard',
+  description: 'Flappy Bird game built with Next.js'
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
